@@ -70,7 +70,7 @@ Shadowrocket会从订阅服务器自行获取订阅信息并添加节点到本�
 此时点击【连通性测试】，在若干秒之后，节点的右侧会有数值显示。
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/07.PNG)
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/08.PNG)
-建议选择一个延迟较低的节点后打开右上角的开关进行连接。
+建议选择一个延迟较低（即右侧数值较低）的节点，然后打开右上角的开关进行连接。
 
 （ps：此延迟与网速并无关系）
 
