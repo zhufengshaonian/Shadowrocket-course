@@ -16,7 +16,7 @@ Shadowrocket是ios平台上较早出现并且很火的代理工具，俗称“�
 
 添加服务器
     
-    A.在无订阅链接的情况下：
+A.在无订阅链接的情况下：
 
 小火箭支持多种方式添加节点。
 
@@ -34,7 +34,8 @@ Shadowrocket是ios平台上较早出现并且很火的代理工具，俗称“�
 3）手动添加服务器信息
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/02.PNG)
 如图，根据自己掌握的节点信息，依次填写即可
-    B.有订阅链接的情况下（推荐）:
+B.有订阅链接的情况下（推荐）:
+
 登陆机场（你买节点的地方）官网，在官网首页的底部点击一键导入Shadowrocket按钮。
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/03.PNG)
 （⚠️注意: 如果一键导入失效或者没有一键导入，请复制SSR或者V2Ray订阅链接按照以下方式导入。）
