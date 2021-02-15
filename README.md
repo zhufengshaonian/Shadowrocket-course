@@ -47,20 +47,29 @@ B.有订阅链接的情况下（推荐）:
 登陆机场（你买节点的地方）官网，在官网首页的底部点击一键导入Shadowrocket按钮。
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/03.PNG)
 （⚠️注意: 如果一键导入失效或者没有一键导入，请复制SSR或者V2Ray订阅链接按照以下方式导入。）
+
 打开Shadowrocket，点击右上角的 + 按钮
+
 在新页面中，选择【类型】为Subscribe
+
 在URL一栏中粘贴自己的订阅链接，备注一栏可随意填写。
+
 Shadowrocket会从订阅服务器自行获取订阅信息并添加节点到本地。
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/04.PNG)
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/05.PNG)
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/06.PNG)
 四、启动服务（连接节点）
 在上面的步骤中，已完成基本设置。
+
 此时点击【连通性测试】，在若干秒之后，节点的右侧会有数值显示。
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/07.PNG)
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/08.PNG)
 建议选择一个延迟较低的节点后打开右上角的开关进行连接。
+
 （ps：此延迟与网速并无关系）
+
 如果是第一次使用，则会提示需要添加VPN连接。
+
 此时点击允许后按照系统提示操作，验证密码或Touch ID。
+
 之后会自动返回到Shadowrocket界面并启用服务（连接节点）。
