@@ -1,7 +1,6 @@
 一、简介
 Shadowrocket是ios平台上较早出现并且很火的代理工具，俗称“小火箭”。
 软件的界面直观，上手难度低。
-
 二、下载安装
 小火箭在中国大陆已被下架，请使用非国区账号在AppStore下载。
 参考价格：2.99＄，当然也可以使用共享账号下载，这里酷酷的凯给大家提供好了：
@@ -10,7 +9,6 @@ Shadowrocket是ios平台上较早出现并且很火的代理工具，俗称“�
 （注意⚠️：共享账号一定要登陆app store下载，千万不要登陆iCloud！！！不然锁机了我可不负责）
 （注意⚠️：如果账号失效，请去谷歌上面搜索“小火箭独享账号”自行购买）
 （或者时刻关注这里的更新，说不定会有新的共享账号分享给大家）
-
 三、快速上手
 添加服务器
     A.在无订阅链接的情况下：
@@ -36,7 +34,6 @@ Shadowrocket会从订阅服务器自行获取订阅信息并添加节点到本�
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/04.PNG)
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/05.PNG)
 ![Image](https://raw.githubusercontent.com/zhufengshaonian/Shadowrocket-course/main/06.PNG)
-
 四、启动服务（连接节点）
 在上面的步骤中，已完成基本设置。
 此时点击【连通性测试】，在若干秒之后，节点的右侧会有数值显示。
